@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\lyricmode &lt;&lt;
+	$0
+&gt;&gt;</string>
+	<key>name</key>
+	<string>lyricmode</string>
+	<key>scope</key>
+	<string>source.lilypond</string>
+	<key>tabTrigger</key>
+	<string>lyricmode</string>
+	<key>uuid</key>
+	<string>47D452A7-871F-4E8F-A63C-DA09C654F02F</string>
+</dict>
+</plist>

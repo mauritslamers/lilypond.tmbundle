@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\lyricsto ${1:voicename} \context Lyrics = "${2:contextname}" {
+	$0
+}</string>
+	<key>name</key>
+	<string>lyricstocontext</string>
+	<key>scope</key>
+	<string>source.lilypond</string>
+	<key>tabTrigger</key>
+	<string>lyricstocontext</string>
+	<key>uuid</key>
+	<string>B113932C-6432-4EF2-91DF-A0CCA277E614</string>
+</dict>
+</plist>

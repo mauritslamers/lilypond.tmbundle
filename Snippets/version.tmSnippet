@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\version "${1:2.12.3}"</string>
+	<key>name</key>
+	<string>version</string>
+	<key>scope</key>
+	<string>source.lilypond</string>
+	<key>tabTrigger</key>
+	<string>ver</string>
+	<key>uuid</key>
+	<string>52077B4B-10FF-4D3A-82B9-9F57D690CE6E</string>
+</dict>
+</plist>
