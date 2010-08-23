@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\new Staff = ${1:name} {
+	\key ${2:c} \\${3:major}
+	\clef ${4:treble}
+	\time ${5:4}/${6:4}
+ 
+}</string>
+	<key>name</key>
+	<string>staff=</string>
+	<key>scope</key>
+	<string>source.lilypond</string>
+	<key>tabTrigger</key>
+	<string>staff=</string>
+	<key>uuid</key>
+	<string>E175C1DC-A99A-4C28-955B-6091358E10DA</string>
+</dict>
+</plist>

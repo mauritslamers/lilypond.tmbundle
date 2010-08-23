@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\new Voice = "${1:name}" {
+	$0
+}</string>
+	<key>name</key>
+	<string>voice=</string>
+	<key>scope</key>
+	<string>source.lilypond</string>
+	<key>tabTrigger</key>
+	<string>voice=</string>
+	<key>uuid</key>
+	<string>36F44340-C93E-415C-AEB4-054F8C6B7E6B</string>
+</dict>
+</plist>

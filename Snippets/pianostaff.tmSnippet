@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\new PianoStaff {
+	&lt;&lt;
+		\new Staff = ${1:LH} {
+			\key ${2:c} \\${3:major}
+			\clef ${4:treble}
+			\time ${5:4}/${6:4}
+ 
+		}
+
+		\new Staff = ${7:RH} {
+			\key $2 \\$3
+			\clef ${8:bass}
+			\time $5/$6
+
+		}
+
+	&gt;&gt;
+}</string>
+	<key>name</key>
+	<string>pianostaff</string>
+	<key>scope</key>
+	<string>source.lilypond</string>
+	<key>tabTrigger</key>
+	<string>piano</string>
+	<key>uuid</key>
+	<string>2B729F0E-18B2-4302-9539-57FFB4AD2648</string>
+</dict>
+</plist>
